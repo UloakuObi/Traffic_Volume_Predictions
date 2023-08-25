@@ -16,7 +16,7 @@ My primary objective is to identify key indicators of heavy traffic on this stre
 * `traffic_volume` Numeric Hourly I-94 ATR 301 reported westbound traffic volume
 
 ## Summary of Findings
-The analysis revealed that timeis a significant traffic indicator, with clear patterns observed:
+The analysis revealed that time is a significant traffic indicator, with clear patterns observed:
 
 * Heavy traffic tends to occur during the warmer months, spanning from March to October.
 * Traffic volume is higher on weekdays compared to weekends, aligning with typical commuting patterns.
